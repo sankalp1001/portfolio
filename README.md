@@ -1,8 +1,4 @@
-# Undergad 
-## Education 
-  * ELectronics and Instrumentation Egineering with minor specialisation in Data Science-Manipal Institute of Technology
-  * Intermediate MPC-Delta Junior College
-
+# UnderGrad Ready to Transform Pixels into Patterns with a Passion for Machine Learning and Computer Vision!
 
 ## Work Experience
 ### Machine Learning Intern @Akridata
@@ -14,13 +10,18 @@ Worked on a project aimed to find potential fishing zones in Bay of Bengal. Perf
  * Designed and implemented an algorithm to control a 6-wheeled rover using the microcontrollers.
  * Developed a communication system for a hypothetical rover model as part of the International Rover Design Challenge 2021(Finished  3rd Worldwide)[Certificate](/IRDC_certificate.pdf)
 
+## Education 
+  * ELectronics and Instrumentation Egineering with minor specialisation in Data Science-Manipal Institute of Technology
+  * Intermediate MPC-Delta Junior College
+  * Secondary School-Delta High School of Science
+
 ## Publications
 ### YOLOv5s-CAM: A Deep Learning Model for Automated Detection and Classification for Types of Intracranial Hematoma in CT Images
-### IEEE Access, vol. 11, pp. 141309-141328, 2023, doi: 10.1109/ACCESS.2023.3339560.
-This paper focuses on using attention modules such as Efficient channel Attention(ECA) and Convolution block attention module(CBAM) in YOLOv5s for detection. The proposed deep learning model is trained, validated, and tested with 15,921 images from the brain haemorrhage extended dataset and it achieved overall precision, recall, F1-score, and mean average precision at 0.5, and mean average precision at 0.5:0.95 of 0.935, 0.908, 0.921, 0.943 and 0.65 respectively performing object detection on CT brain images for detection of hematoma
+### IEEE Access
+This paper focuses on using attention modules such as Efficient channel Attention(ECA) and Convolution block attention module(CBAM) in YOLOv5s for detection. The proposed deep learning model is trained, validated, and tested with 15,921 images from the brain haemorrhage extended dataset and it achieved overall precision, recall, F1-score, and mean average precision at 0.5, and mean average precision at 0.5:0.95 of 0.935, 0.908, 0.921, 0.943 and 0.65 respectively performing object detection on CT brain images for detection of hematoma [Link](https://ieeexplore.ieee.org/document/10345567)
 ### An Efficient Detection of Intracranial Hematoma Using Window-Based Stacking and YOLOv5 Framework 
 ### 2023 2nd International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India, 2023, pp. 1-6, doi: 10.1109/ICAECA56562.2023.10200714.
-The paper introduces a deep learning framework to address the diagnostic challenges of traumatic brain injury (TBI) and intracranial hematoma (ICH) detection in computed tomography (CT) images. Utilizing advanced preprocessing techniques and an optimized YOLOv5 object detection model with faster spatial pyramid pooling, the framework achieves precise and efficient identification and categorization of hematoma regions within the brain. The proposed approach demonstrates an overall mAP of 0.969, precision of 0.945, and recall of 0.943 using the windowing approach. The framework's results indicate its potential to enhance strategic decision-making for radiologists and improve the quality of care provided to TBI patients
+The paper introduces a deep learning framework to address the diagnostic challenges of traumatic brain injury (TBI) and intracranial hematoma (ICH) detection in computed tomography (CT) images. Utilizing advanced preprocessing techniques and an optimized YOLOv5 object detection model with faster spatial pyramid pooling, the framework achieves precise and efficient identification and categorization of hematoma regions within the brain. The proposed approach demonstrates an overall mAP of 0.969, precision of 0.945, and recall of 0.943 using the windowing approach. The framework's results indicate its potential to enhance strategic decision-making for radiologists and improve the quality of care provided to TBI patients[Link](https://ieeexplore.ieee.org/document/10200714)
 
 ## Projects
 ### Detection of different types of OCT diseasesDetection of different types of OCT diseases
@@ -31,3 +32,6 @@ training and testing. Employing techniques like one-hot encoding for
 categorical variables proved instrumental in enhancing model
 performance. Through these steps, I observed a notable average
 accuracy improvement of 2.5% across the models
+## Line Follower bot 
+Using An ATmega16 and IR sensors, I made a line follower bot with reaction time of about 0.5secs and precise tracing capability. I achieved this by optimizing the signal reception and turning algorithms. [Video](https://drive.google.com/file/d/1XewJeNLZUuVMlNFvsIpTBLbliQ8GlIWc/view?usp=drive_link)
+
