@@ -12,7 +12,7 @@ Worked on a project aimed to find potential fishing zones in Bay of Bengal. Perf
 ### Electronics and Controls Engineer @Mars Rover Manipal
  * Implemented UART, SPI and I2C comm protocols using Arduino, ATmega microcontrollers.
  * Designed and implemented an algorithm to control a 6-wheeled rover using the microcontrollers.
- * Developed a communication system for a hypothetical rover model as part of the International Rover Design Challenge 2021(Finished  3rd Worldwide)
+ * Developed a communication system for a hypothetical rover model as part of the International Rover Design Challenge 2021(Finished  3rd Worldwide)[Certificate](/IRDC_certificate.pdf)
 
 ## Publications
 ### YOLOv5s-CAM: A Deep Learning Model for Automated Detection and Classification for Types of Intracranial Hematoma in CT Images
