@@ -1,4 +1,4 @@
-#Lately Transforming Pixels into Patterns  
+# Lately Transforming Pixels into Patterns  
 
 ## Work Experience
 ### Machine Learning Intern @Akridata
