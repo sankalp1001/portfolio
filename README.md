@@ -1,37 +1,79 @@
-# Lately Transforming Pixels into Patterns  
+# Sankalp Mallappa
 
-## Work Experience
-### Machine Learning Intern @Akridata
-Working with different object detection models such as CLIP and OwlViT as part of improving the autolabel feature of data explorer 
-### Deep Learning Reseach Intern @INCOIS Hyderabad
-Worked on a project aimed to find potential fishing zones in Bay of Bengal. Performed image segmentation using YOLO based model on satellite    images. Got a testing mean average precision of 94% on test data. Used about 1700 images for training and testing
-### Electronics and Controls Engineer @Mars Rover Manipal
- * Implemented UART, SPI and I2C comm protocols using Arduino, ATmega microcontrollers.
- * Designed and implemented an algorithm to control a 6-wheeled rover using the microcontrollers.
- * Developed a communication system for a hypothetical rover model as part of the International Rover Design Challenge 2021(Finished  3rd Worldwide)[Certificate](/IRDC_certificate.pdf)
+mallappasankalp@gmail.com  
+6281079182  
+12/08/2024
 
-## Education 
-  * ELectronics and Instrumentation Egineering with minor specialisation in Data Science-Manipal Institute of Technology
-  * Intermediate MPC-Delta Junior College
-  * Secondary School-Delta High School of Science
+---
+
+## About
+With over 10 months of industry experience in building machine learning models, I am seeking full-time Data Scientist roles starting August 2024.
+
+---
+
+## Education
+**B.Tech in Electronics and Instrumentation Engineering**  
+*Minor Specialization in Data Science*  
+Manipal Institute of Technology, Manipal  
+Expected 2024 | CGPA: 7.64
+
+**Intermediate MPC**  
+Delta Junior College  
+2017 - 2019 | Percentage: 84.9%
+
+**Secondary School**  
+Delta High School of Science
+
+---
+
+## Skills
+**Technical Skills:**  
+- PyTorch, Numpy, Pandas, Matplotlib, MLflow
+
+**Soft Skills:**  
+- Cultural Competence, Learning Agility, Interpersonal Adeptness
+
+---
+
+## Experience
+
+### Machine Learning Intern  
+**Akridata, Bengaluru, India**  
+*January 2024 - September 2024*  
+- Enhanced Akridata’s Data Explorer by integrating transformer-based object detection models like OwlViT, significantly improving the autolabel pipeline.
+- Developed a chatbot for querying pandas dataframes using natural language, employing chain-of-thought prompting to enhance command generation.
+- Created efficient, lightweight tracking solutions for video datasets, improving detection quality and adding a tracking feature to the autolabel pipeline.
+
+### Deep Learning Research Intern  
+**Indian National Centre for Ocean Information Services (INCOIS), Hyderabad, India**  
+*December 2022 - January 2023*  
+- Conducted a project focused on identifying potential fishing zones in the Bay of Bengal using satellite images.
+- Performed image segmentation with a YOLO-based model, achieving a mean average precision (mAP50) of 94% with a dataset of approximately 1700 images.
+
+---
 
 ## Publications
-### YOLOv5s-CAM: A Deep Learning Model for Automated Detection and Classification for Types of Intracranial Hematoma in CT Images
-### IEEE Access
-This paper focuses on using attention modules such as Efficient channel Attention(ECA) and Convolution block attention module(CBAM) in YOLOv5s for detection. The proposed deep learning model is trained, validated, and tested with 15,921 images from the brain haemorrhage extended dataset and it achieved overall precision, recall, F1-score, and mean average precision at 0.5, and mean average precision at 0.5:0.95 of 0.935, 0.908, 0.921, 0.943 and 0.65 respectively performing object detection on CT brain images for detection of hematoma [Link](https://ieeexplore.ieee.org/document/10345567)
-### An Efficient Detection of Intracranial Hematoma Using Window-Based Stacking and YOLOv5 Framework 
-### 2023 2nd International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India
-The paper introduces a deep learning framework to address the diagnostic challenges of traumatic brain injury (TBI) and intracranial hematoma (ICH) detection in computed tomography (CT) images. Utilizing advanced preprocessing techniques and an optimized YOLOv5 object detection model with faster spatial pyramid pooling, the framework achieves precise and efficient identification and categorization of hematoma regions within the brain. The proposed approach demonstrates an overall mAP of 0.969, precision of 0.945, and recall of 0.943 using the windowing approach. The framework's results indicate its potential to enhance strategic decision-making for radiologists and improve the quality of care provided to TBI patients[Link](https://ieeexplore.ieee.org/document/10200714)
+
+### [YOLOv5s-CAM: A Deep Learning Model for Automated Detection and Classification for Types of Intracranial Hematoma in CT Images](https://ieeexplore.ieee.org/document/10345567)
+Published in IEEE Access, December 2023
+
+### [An Efficient Detection of Intracranial Hematoma Using Window-Based Stacking and YOLOv5 Framework](https://ieeexplore.ieee.org/document/10200714)
+Published in 2023 2nd International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India
+
+---
 
 ## Projects
-### Detection of different types of OCT diseasesDetection of different types of OCT diseases
-Developed an algorithm to classify 1,00,000+ OCT images into multiple classes to detect retinal diseases. Used multiple pretrained CNNs for feature extraction and used SVM for classification. Obtained an accuracy of 93% with 10 fold cross validation
-### House Price Prediction
-The central emphasis was on optimizing data readiness for robust
-training and testing. Employing techniques like one-hot encoding for
-categorical variables proved instrumental in enhancing model
-performance. Through these steps, I observed a notable average
-accuracy improvement of 2.5% across the models
-### Line Follower bot 
-Using An ATmega16 and IR sensors, I made a line follower bot with reaction time of about 0.5secs and precise tracing capability. I achieved this by optimizing the signal reception and turning algorithms. [Video](https://drive.google.com/file/d/1XewJeNLZUuVMlNFvsIpTBLbliQ8GlIWc/view?usp=drive_link)
 
+### Detection of Different Types of OCT Diseases
+- Developed an algorithm to classify 1,00,000+ OCT images into multiple classes to detect retinal diseases.
+- Used multiple pretrained CNNs for feature extraction and employed SVM for classification.
+- Achieved an accuracy of 93% with 10-fold cross-validation.
+
+### House Price Prediction
+- Optimized data readiness for robust training and testing.
+- Employed techniques like one-hot encoding for categorical variables, which led to an average accuracy improvement of 2.5% across models.
+
+### Line Follower Bot
+- Developed a line follower bot using an ATmega16 and IR sensors with a reaction time of about 0.5 seconds.
+- Optimized signal reception and turning algorithms for precise tracing capability.
+- [Watch Video](https://drive.google.com/file/d/1XewJeNLZUuVMlNFvsIpTBLbliQ8GlIWc/view?usp=drive_link)
