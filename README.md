@@ -7,14 +7,14 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an AI Engineer with ~1 year of experience building and deploying ML, CV, and NLP solutions across domains like medical imaging, cloud automation, and e-commerce.  
 I'm actively seeking full-time **Machine Learning or Data Science roles** starting **August 2024**.
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Tech in Electronics and Instrumentation Engineering**  
 *Minor in Data Science*  
@@ -27,7 +27,7 @@ Manipal Institute of Technology (MIT), Manipal
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Languages & Tools:**  
 Python · PyTorch · Pandas · NumPy · Scikit-learn · MLflow · AWS · Transformers · LangChain · FAISS · Matplotlib
@@ -37,7 +37,7 @@ Problem-Solving · Cross-Functional Collaboration · Learning Agility · Communi
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### AI Developer – FinOps Automation  
 **Orange People (Remote)** | *Apr 2025 – May 2025*  
@@ -59,7 +59,7 @@ Problem-Solving · Cross-Functional Collaboration · Learning Agility · Communi
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
@@ -70,7 +70,7 @@ Problem-Solving · Cross-Functional Collaboration · Learning Agility · Communi
 
 ---
 
-## 📚 Publications
+##  Publications
 
 - [YOLOv5s-CAM: Intracranial Hematoma Detection in CT](https://ieeexplore.ieee.org/document/10345567) – *IEEE Access, Dec 2023*  
 - [Efficient Hematoma Detection using YOLOv5 + Window Stacking](https://ieeexplore.ieee.org/document/10200714) – *ICAECA 2023*
